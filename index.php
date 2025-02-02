@@ -37,7 +37,7 @@ $obj = new GasDelivery;
               <span class="icon-bar"></span>
             </button>
             <div class="navbar-brand">
-              <a href="#"><h1><span>GAS DELIVERY</span> Information managment system</h1></a>
+              <a href="#"><h1><span>GAS DELIVERY System</span> Information managment system </h1></a>
             </div>
           </div>
 
