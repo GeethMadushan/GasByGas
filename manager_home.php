@@ -100,7 +100,7 @@ if(isset($_GET['logout'])) {
         <li class="breadcrumb-item">
           <a href="#">Dashboard</a>
         </li>
-        <li class="breadcrumb-item active">Regional Manager</li>
+        <li class="breadcrumb-item active">Manager</li>
       </ol>
     <?php } ?>
 
